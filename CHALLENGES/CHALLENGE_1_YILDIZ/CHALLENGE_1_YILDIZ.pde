@@ -1,0 +1,52 @@
+          //WORK AREA WIDTH, HEIGHT
+size(500,500);
+background(0,0,0,0);
+          //SET COLOR
+stroke(255,255,255);
+          //MIDDLE LINES
+line(0,250,500,250); //Middle_line_X1
+line(250,0,250,500); //Middle_Line_Y1
+          //AREA 1
+line(250,0,275,250); //Line_Y1_A1
+line(250,25,300,250); //Line_Y2_A1
+line(250,50,325,250); //Line_Y3_A1
+line(250,75,350,250); //Line_Y4_A1
+line(250,100,375,250); //Line_Y5_A1
+line(250,125,400,250); //Line_Y6_A1
+line(250,150,425,250); //Line_Y7_A1
+line(250,175,450,250); //Line_Y8_A1
+line(250,200,475,250); //Line_Y9_A1
+line(250,225,500,250); //Line_Y1_A1
+          //AREA 2
+line(250,0,225,250); //Line_Y1_A2
+line(250,25,200,250); //Line_Y2_A2
+line(250,50,175,250); //Line_Y3_A2
+line(250,75,150,250); //Line_Y4_A2
+line(250,100,125,250); //Line_Y5_A2
+line(250,125,100,250); //Line_Y6_A2
+line(250,150,75,250); //Line_Y7_A2
+line(250,175,50,250); //Line_Y8_A2
+line(250,200,25,250); //Line_Y9_A2
+line(250,225,0,250); //Line_Y10_A2
+          //AREA 3
+line(225,250,250,500); //Line_Y1_A3
+line(200,250,250,475); //Line_Y2_A3
+line(175,250,250,450); //Line_Y2_A3
+line(150,250,250,425); //Line_Y2_A3
+line(125,250,250,400); //Line_Y2_A3
+line(100,250,250,375); //Line_Y2_A3
+line(75,250,250,350); //Line_Y2_A3
+line(50,250,250,325); //Line_Y2_A3
+line(25,250,250,300); //Line_Y2_A3
+line(0,250,250,275); //Line_Y2_A3
+          //AREA 4
+line(275,250,250,500); //Line_Y1_A4
+line(300,250,250,475); //Line_Y1_A4
+line(325,250,250,450); //Line_Y1_A4
+line(350,250,250,425); //Line_Y1_A4
+line(375,250,250,400); //Line_Y1_A4
+line(400,250,250,375); //Line_Y1_A4
+line(425,250,250,350); //Line_Y1_A4
+line(450,250,250,325); //Line_Y1_A4
+line(475,250,250,300); //Line_Y1_A4
+line(500,250,250,275); //Line_Y1_A4
